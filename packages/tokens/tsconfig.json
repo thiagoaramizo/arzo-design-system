@@ -1,0 +1,4 @@
+{
+  "extends": "@arzo/ts-config/base.json",
+  "include": ["src"]
+}

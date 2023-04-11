@@ -1,0 +1,4 @@
+{
+  "extends": "@arzo/ts-config/react.json",
+  "include": ["src"]
+}
